@@ -20,3 +20,8 @@ With 17 years of swimming experience, I am also a coffee enthusiast, and I have 
 ![](https://nirzak-streak-stats.vercel.app/?user=stiv-ca&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stiv-ca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
