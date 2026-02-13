@@ -21,7 +21,6 @@ With 17 years of swimming experience, I am also a coffee enthusiast, and I have 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stiv-ca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
-
-<!--END_SECTION:activity-->
