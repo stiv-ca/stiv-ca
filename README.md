@@ -25,6 +25,6 @@ With 17 years of swimming experience, I am also a coffee enthusiast, and I have 
 1. ⭐ Starred [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 19th, 2026, 3:28:39 PM
+Last Updated: Wednesday, May 20th, 2026, 3:47:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
